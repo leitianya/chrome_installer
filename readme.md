@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/f5ddyuxlhdyxqtmxaqpj4on5xe_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/f5ddyuxlhdyxqtmxaqpj4on5xe_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：147.0.7707.0  
-**文件大小**：365.17 MB  
-**校验值（Sha256）**：0f3017a109817bd336a033aa42e86cacb31c2ac97e9ce266f3b96c77eb2d5ecb  
-**下载链接**：[https://dl.google.com/release2/chrome/acbqux5jygcbtnakmcrwfttyes5a_147.0.7707.0/147.0.7707.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acbqux5jygcbtnakmcrwfttyes5a_147.0.7707.0/147.0.7707.0_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7707.1  
+**文件大小**：547.81 MB  
+**校验值（Sha256）**：2b6cbd0e00e9bffd1106f0e4567835e732641f85b8e257926f89ca58cb7d9e5d  
+**下载链接**：[https://dl.google.com/release2/chrome/acnxy7uejdtkppfvleood2j2fyiq_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acnxy7uejdtkppfvleood2j2fyiq_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：147.0.7707.1  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/e5t7n3maheas5nhym2tuawioxa_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/e5t7n3maheas5nhym2tuawioxa_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：147.0.7707.0  
-**文件大小**：429.21 MB  
-**校验值（Sha256）**：3871fa187104a8dfaab35b8be95cf5b0a729c7a39b0e79d278fe21096481cd2d  
-**下载链接**：[https://dl.google.com/release2/chrome/adjh34usiltu3ezei37zvo6qymoq_147.0.7707.0/147.0.7707.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adjh34usiltu3ezei37zvo6qymoq_147.0.7707.0/147.0.7707.0_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7707.1  
+**文件大小**：602.56 MB  
+**校验值（Sha256）**：7ac239745d66ffda288b7f557a542cc44f3a26f99188e0627c1cd1a2091a83b7  
+**下载链接**：[https://dl.google.com/release2/chrome/k7mfboembamvzm3aouvepsxbwy_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/k7mfboembamvzm3aouvepsxbwy_147.0.7707.1/147.0.7707.1_chrome_installer_uncompressed.exe)  
 
