@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/f5ddyuxlhdyxqtmxaqpj4on5xe_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/f5ddyuxlhdyxqtmxaqpj4on5xe_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：147.0.7718.0  
-**文件大小**：366.21 MB  
-**校验值（Sha256）**：04104edb9605fc492cb0b4a1b0c41e035da30cfa29797b8823306a254cb52887  
-**下载链接**：[https://dl.google.com/release2/chrome/ad3qm5sjxrzfan7cvbh7xqcnengq_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3qm5sjxrzfan7cvbh7xqcnengq_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7719.0  
+**文件大小**：364.49 MB  
+**校验值（Sha256）**：483c2284b724daaafe27d41bb9a495254534e6ec23d0b4f3c3c8610e062a3702  
+**下载链接**：[https://dl.google.com/release2/chrome/ihweprs777xtyllsqjpdj5yb_147.0.7719.0/147.0.7719.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ihweprs777xtyllsqjpdj5yb_147.0.7719.0/147.0.7719.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：147.0.7718.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ncfcdefcu5rrhd7t562krjef7m_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ncfcdefcu5rrhd7t562krjef7m_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：147.0.7718.0  
-**文件大小**：429.52 MB  
-**校验值（Sha256）**：40df8f32f08d15be00a17441bbbe321c12b157b213f34a439cc2ff262ba405fc  
-**下载链接**：[https://dl.google.com/release2/chrome/brhlutj2yyrbsvz5bzegljcp54_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/brhlutj2yyrbsvz5bzegljcp54_147.0.7718.0/147.0.7718.0_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7719.0  
+**文件大小**：429.69 MB  
+**校验值（Sha256）**：967890ad106e8680e270908189b0b9f3ba4eb0c63f12526edb39dc1ccf2d0c52  
+**下载链接**：[https://dl.google.com/release2/chrome/acxsdqbzbfgeggilocgg577kyfka_147.0.7719.0/147.0.7719.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acxsdqbzbfgeggilocgg577kyfka_147.0.7719.0/147.0.7719.0_chrome_installer_uncompressed.exe)  
 
